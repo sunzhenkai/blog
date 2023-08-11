@@ -8,3 +8,4 @@ public/
 hexo/source/_posts/lns
 hexo/source/_posts/docs
 **/package-lock.json
+docs
