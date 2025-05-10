@@ -1,5 +1,9 @@
 baseURL = 'http://localhost:1313/'
 languageCode = 'en-us'
 title = "Wii's Blog"
-theme = 'ananke'
+theme = 'hugo-book'
 
+[params]
+BookSection = '*'
+BookSearch = true
+BookComments = true

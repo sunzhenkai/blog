@@ -4,3 +4,6 @@
 [submodule "3rd/notes"]
 	path = 3rd/notes
 	url = https://github.com/sunzhenkai/notes.git
+[submodule "hugo/themes/hugo-book"]
+	path = hugo/themes/hugo-book
+	url = https://github.com/alex-shpak/hugo-book
