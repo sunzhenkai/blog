@@ -1,3 +1,6 @@
 [submodule "hugo/themes/ananke"]
 	path = hugo/themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "3rd/notes"]
+	path = 3rd/notes
+	url = https://github.com/sunzhenkai/notes.git
